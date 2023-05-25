@@ -1,0 +1,19 @@
+body {
+    background-image: url(image/hourglass-620397_1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.clock {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 72px;
+    font-family: Arial, sans-serif;
+}
+
+#time {
+    color: #f60e0e;
+}
